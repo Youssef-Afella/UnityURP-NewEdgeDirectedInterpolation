@@ -424,7 +424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LuminanceBasedUpscaleManager
   computeShader: {fileID: 7200000, guid: 58682547d606d5740b30709aa4312eeb, type: 3}
-  inputTexture: {fileID: 2800000, guid: 477e4901717b3a34595b24b9df91f9cf, type: 3}
+  inputTexture: {fileID: 2800000, guid: 9a30cdab1c414e544bea26236f163ed2, type: 3}
   nediTarget: {fileID: 1748472438}
   bilinearTarget: {fileID: 573142752}
   upscaleFactor: 2
