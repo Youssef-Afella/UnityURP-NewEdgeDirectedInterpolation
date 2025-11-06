@@ -1,6 +1,7 @@
 # UnityURP-NewEdgeDirectedInterpolation
 Implementation of the NEDI (New Edge-Directed Interpolation) from Xin Li & Michael Orchard [Paper](https://ieeexplore.ieee.org/document/951537)</br>
 Special thanks for Parashar Krishnamachari for his [Post](https://chiranjivi.tripod.com/EDITut.html) which helped me a lot to understand the algorithm.</br>
+
 I tried to optimize the computation as much as possible to experiment with the possibility of implementing NEDI in realtime.</br>
 The project contrains multiple examples of the implementation, you can use your own images just make sure, after importing them, to disable the compression Unity applies by default.</br>
 
@@ -14,6 +15,7 @@ The project contrains multiple examples of the implementation, you can use your 
 <img width="1920" height="1080" alt="Image Sequence_010_0005" src="https://github.com/user-attachments/assets/9b238394-2790-4ee0-910f-597e5c2ad6ae" />
 <img width="1920" height="768" alt="Image Sequence_009_0005" src="https://github.com/user-attachments/assets/c26eca9b-38bc-4a0c-961a-665c32a91f79" />
 <img width="1920" height="1080" alt="Image Sequence_001_0049" src="https://github.com/user-attachments/assets/e96e86d8-e3b5-48f2-836a-8dbc6e0da06c" />
+<img width="1154" height="462" alt="Image Sequence_001_0049" src="https://github.com/user-attachments/assets/3dd85bdc-8775-4d97-9cda-a921c6ec5be5" />
 
 ## References
 - [NEDI Paper](https://ieeexplore.ieee.org/document/951537)
